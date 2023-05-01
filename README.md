@@ -14,10 +14,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=[seu-nome-de-usuario]&show_icons=true&theme=radical">
 </p>
 
-<!-- Seção de linguagens -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-nome-de-usuario]&layout=compact&theme=radical">
-</p>
+<!-- Seção de linguagens --> github stats
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app?api?username=samyllerose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Samylle Rose github stats"/>
+</div>
+
+
+<div>
 
 <!-- Seção de contato -->
 <p align="center">
