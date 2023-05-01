@@ -20,12 +20,12 @@
 </p>
 
 <!-- Seção de gráfico de contribuição -->
-<h2 align="center">👨‍💻 Contributions</h2>
-<p align="center">
-  <a href="https://github.com/SamylleRose">
-    <img src="https://github.com/SamylleRose/SamylleRose/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamylleRose/SamylleRose/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamylleRose/SamylleRose/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamylleRose/SamylleRose/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- Seção de contato -->
 <h2 align="center">📫 Contato</h2>
 <p align="center">
