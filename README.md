@@ -27,11 +27,11 @@
   </a>
 </p>
 <!-- Seção de contato -->
-<<h2 align="center">📫 Contato</h2>
+<h2 align="center">📫 Contato</h2>
 <p align="center">
-  <a href="mailto:samylle1brito@gmail.com">✉️ Email</a> |
-  <a href="">💼 LinkedIn</a> |
-  <a href="https://www.instagram.com/samylle_ui/?next=%2F">📷 Instagram</a>
+  <a href="mailto:https://www.instagram.com/samylle_ui/?next=%2F"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/></a> |
+  <a href="https://www.linkedin.com/in/samylle-rose-798632213/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a> |
+  <a href="https://www.instagram.com/samylle_ui/?next=%2F"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
 </p>
 
 
