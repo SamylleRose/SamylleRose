@@ -39,27 +39,21 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-C71585?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 ### Other Knowledge
-- Responsive Design
-- SEO
-- SQL
+- English
+- Artist
 
 ### Studying in This Moment
-- ReactJS
-- NextJS
-- NodeJS
+- UX/UI designer
+- C99
+- Figma
+- Adobe Photoshop
+- Adobe Illustrado
+- Pixel Art(future games)
 
 ## Contato
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-C71585?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samylle-rose-798632213/)](https://www.linkedin.com/in/samylle-rose-798632213/)
 [![Instagram](https://img.shields.io/badge/-Instagram-C71585?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/samylle_ui/?next=%2F)](https://www.instagram.com/samylle_ui/?next=%2F)
 [![Email](https://img.shields.io/badge/-Email-C71585?style=flat-square&logo=gmail&logoColor=white&link=mailto:samylle1brito@gmail.com)](mailto:samylle1brito@gmail.com)
-
-
-
-
-
-
-
-
 
 <!-- Visitor -->
             
