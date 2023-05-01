@@ -39,10 +39,10 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-C71585?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 ### Other Knowledge
-- English
-- Artist
+- I know how to draw (various types of styles)
 
 ### Studying in This Moment
+- Englesh
 - UX/UI designer
 - C99
 - Figma
@@ -55,15 +55,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-C71585?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/samylle_ui/?next=%2F)](https://www.instagram.com/samylle_ui/?next=%2F)
 [![Email](https://img.shields.io/badge/-Email-C71585?style=flat-square&logo=gmail&logoColor=white&link=mailto:samylle1brito@gmail.com)](mailto:samylle1brito@gmail.com)
 
-<!-- Visitor -->
-            
-<!-- Seção de contato -->
-<h2 align="center">📫 Contato</h2>
-<p align="center">
-  <a href="mailto:https://www.instagram.com/samylle_ui/?next=%2F"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/></a> |
-  <a href="https://www.linkedin.com/in/samylle-rose-798632213/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a> |
-  <a href="https://www.instagram.com/samylle_ui/?next=%2F"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
-</p>
- 
 <!-- final -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=footer"/> ;)
