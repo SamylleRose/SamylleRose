@@ -27,9 +27,11 @@
   </a>
 </p>
 <!-- Seção de contato -->
+<<h2 align="center">📫 Contato</h2>
 <p align="center">
-  <a href="[seu-link-do-linkedin]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[seu-link-do-linkedin]"></a>
-  <a href="[seu-link-do-twitter]"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=[seu-link-do-twitter]"></a>
+  <a href="mailto:samylle1brito@gmail.com">✉️ Email</a> |
+  <a href="">💼 LinkedIn</a> |
+  <a href="https://www.instagram.com/samylle_ui/?next=%2F">📷 Instagram</a>
 </p>
 
 
