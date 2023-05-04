@@ -35,8 +35,7 @@
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-C71585?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-C71585?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-C71585?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-C71585?style=flat-square&logo=adobe-illustrator&logoColor=white)
+
 
 ### Other Knowledge
 - I know how to draw (various types of styles)
@@ -46,8 +45,6 @@
 - UX/UI designer
 - C99
 - Figma
-- Adobe Photoshop
-- Adobe Illustrado
 - Pixel Art(future games)
 
 ## Contato
