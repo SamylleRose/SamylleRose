@@ -40,7 +40,7 @@
 - I know how to draw (various types of styles)
 
 ### Studying in This Moment
-- Englesh
+- English
 - UX/UI designer
 - C99
 - Figma
