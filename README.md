@@ -12,7 +12,6 @@
 <!-- Seção de estatísticas -->
 <h2 align="center">📈 My GitHub Stats 📉</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamylleRose&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamylleRose&theme=radical&layout=compact" />
 </p>
 <p align="center">
@@ -21,7 +20,7 @@
 
 <!-- Seção de gráfico de contribuição -->
 <picture>
-
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamylleRose/SamylleRose/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamylleRose/SamylleRose/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamylleRose/SamylleRose/output/github-contribution-grid-snake.svg">
 </picture>
