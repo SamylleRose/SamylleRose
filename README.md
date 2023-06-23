@@ -12,7 +12,7 @@
 <!-- Seção de estatísticas -->
 <h2 align="center">📈 My GitHub Stats 📉</h2>
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamylleRose&theme=radical&layout=compact" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamylleRose&theme=radical&layout=compact" />
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SamylleRose&theme=radical" />
