@@ -6,6 +6,8 @@
   <img src="https://media.giphy.com/media/4TnHlUBm55QMzBLvq6/giphy.gif" width="40%">
 </p>
 
+<!-- Seção de saudação -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Samylle+Rose;I'm+20+years+old;I'm+from+Brazil,+Piaui;I+study+information+systems+at+UFPI;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- Seção de estatísticas -->
 <h2 align="center">📈 My GitHub Stats 📉</h2>
