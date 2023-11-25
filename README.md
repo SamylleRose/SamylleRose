@@ -22,10 +22,10 @@
 ![C99](https://img.shields.io/badge/-C99-00599C?style=flat-square&logo=C&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/-UX/UI%20Design-C71585?style=flat-square&logo=adobe-xd&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
-![GO](https://img.shields.io/badge/-GO-00ADD8?style=flat-square&logo=GO&logoColor=white)
+![GO](https://img.shields.io/badge/-go-00ADD8?style=flat-square&logo=GO&logoColor=white)
 
 
 ### Tools
