@@ -19,24 +19,20 @@
 </p>
 
 ### Main Skills
-![C99](https://img.shields.io/badge/-C99-C71585?style=flat-square&logo=C&logoColor=white)
+![C99](https://img.shields.io/badge/-C99-00599C?style=flat-square&logo=C&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/-UX/UI%20Design-C71585?style=flat-square&logo=adobe-xd&logoColor=white)
-![PYTHON](https://img.shields.io/badge/-PYTHON-C71585?style=flat-square&logo=adobe-xd&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![GO](https://img.shields.io/badge/-GO-00ADD8?style=flat-square&logo=GO&logoColor=white)
+
 
 ### Tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-C71585?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-C71585?style=flat-square&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-0ACF83?style=flat-square&logo=figma&logoColor=white)
+![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-2196F3?style=flat-square&logo=Photoshop&logoColor=white)
 
-
-### Other Knowledge
-- I know how to draw (various types of styles)
-
-### Studying in This Moment
-- English
-- UX/UI designer
-- C99
-- Figma
-- Pixel Art(future games)
 
 ## Contato
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-C71585?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samylle-rose-798632213/)](https://www.linkedin.com/in/samylle-rose-798632213/)
