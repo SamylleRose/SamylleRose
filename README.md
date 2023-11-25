@@ -21,6 +21,7 @@
 ### Main Skills
 ![C99](https://img.shields.io/badge/-C99-C71585?style=flat-square&logo=C&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/-UX/UI%20Design-C71585?style=flat-square&logo=adobe-xd&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-PYTHON-C71585?style=flat-square&logo=adobe-xd&logoColor=white)
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-C71585?style=flat-square&logo=visual-studio-code&logoColor=white)
