@@ -18,15 +18,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SamylleRose&theme=radical" />
 </p>
 
-<!-- Seção de gráfico de contribuição -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamylleRose/SamylleRose/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamylleRose/SamylleRose/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamylleRose/SamylleRose/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
 ### Main Skills
 ![C99](https://img.shields.io/badge/-C99-C71585?style=flat-square&logo=C&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/-UX/UI%20Design-C71585?style=flat-square&logo=adobe-xd&logoColor=white)
