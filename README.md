@@ -14,9 +14,7 @@
 <p align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamylleRose&theme=radical&layout=compact" />
 </p>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SamylleRose&theme=radical" />
-</p>
+
 
 ### Main Skills
 ![C99](https://img.shields.io/badge/-C99-00599C?style=flat-square&logo=C&logoColor=white)
