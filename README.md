@@ -1,5 +1,5 @@
 <!-- Seção de cabeçalho -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=180&section=header&text=Hello!&fontSize=30&fontColor=fff&animation=twinklin&fontAlignY=35"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=180&section=header&text=Hello!&fontSize=30&fontColor=fff&animation=twinklin&fontAlignY=35"/>-->
 
 <!-- Seção de gifs -->
 <p align="center">
@@ -38,4 +38,4 @@
 [![Email](https://img.shields.io/badge/-Email-C71585?style=flat-square&logo=gmail&logoColor=white&link=mailto:samylle1brito@gmail.com)](mailto:samylle1brito@gmail.com)
 
 <!-- final -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=footer"/> ;)
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=footer"/> ;) -->
