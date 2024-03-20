@@ -22,8 +22,8 @@
 ![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
-![GO](https://img.shields.io/badge/-GO-00ADD8?style=flat-square&logo=GO&logoColor=white)
+<!--![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)--!>
+<!--![GO](https://img.shields.io/badge/-GO-00ADD8?style=flat-square&logo=GO&logoColor=white)--!>
 
 
 ### Tools
