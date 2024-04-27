@@ -14,7 +14,7 @@
 <h2 align="center">📈 My GitHub Stats 📉</h2>
 <p align="center">
 <!--   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamylleRose&theme=radical&layout=compact" /> -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamylleRose&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamylleRose&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
 </p>
 
 
