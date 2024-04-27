@@ -3,8 +3,8 @@
 
 <!-- Seção de gifs -->
 <p align="center">
-<!--   <img src="https://media.giphy.com/media/4TnHlUBm55QMzBLvq6/giphy.gif" width="40%"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansilva15&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
+  <img src="https://media.giphy.com/media/4TnHlUBm55QMzBLvq6/giphy.gif" width="40%">
+ 
 </p>
 
 <!-- Seção de saudação -->
@@ -13,7 +13,8 @@
 <!-- Seção de estatísticas -->
 <h2 align="center">📈 My GitHub Stats 📉</h2>
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamylleRose&theme=radical&layout=compact" />
+<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamylleRose&theme=radical&layout=compact" /> -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamylleRose&layout=compact&count_private=true&show_icons=true&theme=dracula" alt="Renan's Github Most Used Languages">
 </p>
 
 
